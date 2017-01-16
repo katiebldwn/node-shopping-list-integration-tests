@@ -1,5 +1,5 @@
 const chai = require('chai');
-const chaitHttp = require('chai-http');
+const chaiHttp = require('chai-http');
 
 const{app, closeServer, runServer} = require('../server');
 
